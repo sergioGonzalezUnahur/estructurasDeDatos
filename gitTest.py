@@ -9,5 +9,5 @@ Original file is located at
 
 def funcion1(name):
   return name
-def funcion2(name):
+def funcion3(name):
   return(name+name)
