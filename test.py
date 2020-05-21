@@ -17,3 +17,6 @@ class TdaTest:
 
   def getPrimer(self):
     return self.primer
+  
+  def getSegundo(self):
+    return self.segundo
