@@ -22,4 +22,4 @@ class TdaTest:
     return self.segundo
 
   def getSuma(self):
-    return self.primero+self.segundo
+    return self.primer+self.segundo
