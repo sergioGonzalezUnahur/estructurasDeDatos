@@ -20,3 +20,6 @@ class TdaTest:
 
   def getSegundo(self):
     return self.segundo
+
+  def getSuma(self):
+    return self.primero+self.segundo
